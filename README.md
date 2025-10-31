@@ -13,9 +13,10 @@ It highlights my progress in <b>computer science</b>, <b>cloud computing</b>, an
 <br/>
 <p align="center">
 Certifications:<br/>
-<img src="" height="80%" width="80%" alt="cert"/>
-<img src="" height="80%" width="80%" alt="cert"/>
-  <img src="" height="80%" width="80%" alt="cert"/>
-  <img src="" height="80%" width="80%" alt="cert"/>
-  <img src="" height="80%" width="80%" alt="cert"/>
+<img src="https://i.imgur.com/i5GGBSs.png" height="80%" width="80%" alt="cert"/>
+<img src="https://i.imgur.com/33tzxbW.png" height="80%" width="80%" alt="cert"/>
+<img src="https://i.imgur.com/PHvncXE.png" height="80%" width="80%" alt="cert"/>
+<img src="https://i.imgur.com/mSMi9Zo.png" height="80%" width="80%" alt="cert"/>
+<img src="https://i.imgur.com/Eo5Bw5p.jpeg" height="80%" width="80%" alt="cert"/>
+<img src="https://i.imgur.com/UJtmMjV.png" height="80%" width="80%" alt="cert"/>
 </p>

@@ -6,16 +6,30 @@ It highlights my progress in <b>computer science</b>, <b>cloud computing</b>, an
 
 <br/>
 <br/>
-<b>Categories:</b><br/>
-- ☁️ <b>Cloud Computing: </b><br/>
-       <b>Microsoft Azure</b>(https://github.com/marriammahmed/certs/blob/main/MS%20Azure%20training%20certificates.pdf)
-       <b>AWS</b>(https://github.com/marriammahmed/certs/blob/main/AWS%20Educate%20Courses.pdf)
-       <b>Google Cloud</b>(https://github.com/marriammahmed/certs/blob/main/Google%20Cloud%20Training.pdf) <br/>
-- 💻<b>DB, SQL & Data Analysis: </b><b>Datacamp</b>(https://github.com/marriammahmed/certs/blob/main/Datacamp%20certs.pdf)<br/>
-- 👾<b>Computer Networkss: </b><b>CISCO</b>(https://github.com/marriammahmed/certs/blob/main/Introduction_to_Packet_Tracer_Badge20241208-26-iyc81z.pdf)<br/>
-- 🫆<b>Cybersecurity: </b><b>Datacamp</b>()<br/>
-- 🫆<b>Web development: </b><b>Workshop</b>(https://github.com/marriammahmed/certs/blob/main/react_mariam_ahmed.pdf)<br/>
-- 📚 <b>Workshops & Additional Training</b> — Short courses, workshops, and bootcamps<br/>
+<b>Categories:</b><br/><br/>
+
+- ☁️ <b>Cloud Computing:</b><br/>
+  • <a href="https://github.com/marriammahmed/certs/blob/main/MS%20Azure%20training%20certificates.pdf">Microsoft Azure</a><br/>
+  • <a href="https://github.com/marriammahmed/certs/blob/main/AWS%20Educate%20Courses.pdf">AWS</a><br/>
+  • <a href="https://github.com/marriammahmed/certs/blob/main/Google%20Cloud%20Training.pdf">Google Cloud</a><br/><br/>
+
+- 💻 <b>DB, SQL & Data Analysis:</b><br/>
+  • <a href="https://github.com/marriammahmed/certs/blob/main/Datacamp%20certs.pdf">Datacamp</a><br/><br/>
+
+- 👾 <b>Computer Networks:</b><br/>
+  • <a href="https://github.com/marriammahmed/certs/blob/main/Introduction_to_Packet_Tracer_Badge20241208-26-iyc81z.pdf">CISCO</a><br/><br/>
+
+- 🧠 <b>Cybersecurity:</b><br/>
+  • <a href="https://github.com/marriammahmed/certs/blob/main/ISC2.pdf">ISC2</a><br/>
+  • <a href="https://github.com/marriammahmed/certs/blob/main/ISC2.pdf">AUS SOC</a><br/>
+  • <a href="https://github.com/marriammahmed/certs/blob/main/Mariam%20Hatem%20Ahmed.pdf">Coders HQ</a><br/><br/>
+
+- 🌐 <b>Web Development:</b><br/>
+  • <a href="https://github.com/marriammahmed/certs/blob/main/react_mariam_ahmed.pdf">AUS</a><br/><br/>
+
+- 📚 <b>Workshops & Additional Training:</b><br/>
+  • Short courses, workshops, and bootcamps<br/>
+
 
 <br/>
 <p align="center">

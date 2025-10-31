@@ -5,10 +5,16 @@ This repository contains my verified <b>academic</b> and <b>professional certifi
 It highlights my progress in <b>computer science</b>, <b>cloud computing</b>, and <b>technical skills</b> relevant to software engineering and research.
 
 <br/>
-
+<br/>
 <b>Categories:</b><br/>
-- ☁️ <b>Cloud Computing</b> — Certifications from <b>Microsoft Azure</b>, <b>AWS</b>, and <b>Google Cloud</b><br/>
-- 📚 <b>Workshops & Additional Training</b> — Short courses, technical challenges, or bootcamps<br/>
+- ☁️ <b>Cloud Computing: </b><br/>
+       <b>Microsoft Azure</b>()
+       <b>AWS</b>()
+       <b>Google Cloud</b>() <br/>
+- 💻<b>DB, SQL & Data Analysis: </b><b>Datacamp</b>(https://github.com/marriammahmed/certs/blob/main/Datacamp%20certs.pdf)<br/>
+- 👾<b>Computer Networkss: </b><b>Datacamp</b>()<br/>
+- 🫆<b>Cybersecurity: </b><b>Datacamp</b>()<br/>
+- 📚 <b>Workshops & Additional Training</b> — Short courses, workshops, and bootcamps<br/>
 
 <br/>
 <p align="center">

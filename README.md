@@ -8,9 +8,9 @@ It highlights my progress in <b>computer science</b>, <b>cloud computing</b>, an
 <br/>
 <b>Categories:</b><br/>
 - ☁️ <b>Cloud Computing: </b><br/>
-       <b>Microsoft Azure</b>()
-       <b>AWS</b>()
-       <b>Google Cloud</b>() <br/>
+       <b>Microsoft Azure</b>(https://github.com/marriammahmed/certs/blob/main/MS%20Azure%20training%20certificates.pdf.html)
+       <b>AWS</b>(https://github.com/marriammahmed/certs/blob/main/AWS%20Educate%20Courses.pdf.html)
+       <b>Google Cloud</b>(https://github.com/marriammahmed/certs/blob/main/Google%20Cloud%20Training.pdf.html) <br/>
 - 💻<b>DB, SQL & Data Analysis: </b><b>Datacamp</b>(https://github.com/marriammahmed/certs/blob/main/Datacamp%20certs.pdf)<br/>
 - 👾<b>Computer Networkss: </b><b>Datacamp</b>()<br/>
 - 🫆<b>Cybersecurity: </b><b>Datacamp</b>()<br/>
